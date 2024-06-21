@@ -44,6 +44,7 @@ p {line-height: 2}
 <div class="w3-container w3-padding-64 w3-pale-red w3-grayscale-min" id="us">
   <div class="w3-content">
     <h1 class="w3-center w3-text-grey"><b>Stella & Nithin</b></h1>
+    <img class="w3-round w3-grayscale-min" src="LCS04720.jpg" style="width:100%;margin:32px 0">
     <p><i>You all know us. And we all know you. <br>
       Celebrate love, laughter, and breathtaking scenery with Stella and Nithin! <br>
       Join us for an outdoor wedding ceremony followed by heartfelt prayers, joyful greetings, and a delicious lunch prepared by a renowned chef. <br>Kids will love exploring the park while you take in the beauty and celebrate with the happy couple.</i>
